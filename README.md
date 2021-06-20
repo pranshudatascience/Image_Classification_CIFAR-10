@@ -9,14 +9,4 @@ The dataset is divided into five training batches and one test batch, each with 
 
 
 
-Here are the classes in the dataset, as well as 10 random images from each:
-airplane										
-automobile										
-bird										
-cat										
-deer										
-dog										
-frog										
-horse										
-ship										
-truck										
+								
